@@ -1,0 +1,44 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+#title{
+    background-color: #3FE0BD;
+    height: 40vh;
+    filter: contrast(80%) brightness(90%);
+}
+.name{
+    font-family: "Oooh Baby", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4rem;
+  margin-bottom: 30px;
+}
+.namee{
+    font-family: "Oooh Baby", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4rem;
+}
+#profile{
+    margin-top: 80px;
+    margin-bottom: 150px;
+}
+.education{
+    margin-bottom: 30px;
+}
+#education img{
+    height: 200px;
+    width: 420px;
+    object-fit: cover;
+    object-position: center;
+}
+#education p{
+    text-align: justify;
+}
+
+#footer{
+     background-color: #3FE0BD;
+    filter: contrast(80%) brightness(90%);
+}
